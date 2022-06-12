@@ -26,9 +26,6 @@ Raisyah Vidia Rahayu 2106401
 pembuatan robot line follower merupakan implementasi secara mikro dan sederhana
 ```
 
-## Wiring Diagram
-> <img alt="Wiring Diagram" src="https://i.postimg.cc/wv4Ck2TL/Whats-App-Image-2022-06-11-at-06-23-28.jpg" width="70%" height="70%">
-
 ## Analisis
 > <img alt="Infrared" src="https://i.postimg.cc/4N9DzzCH/unnamed.jpg" width="40%" height="40%">
 > 
@@ -44,9 +41,6 @@ pembuatan robot line follower merupakan implementasi secara mikro dan sederhana
 >Arduino sekarang harus membuat keputusan berdasarkan data yang diterima dari sensor, sampai sensor tidak mendeteksi garis hitam maka akan maju. Jika sensor kiri mendeteksi garis hitam, robot berbelok ke kanan, dan jika sensor kanan mendeteksi garis hitam, robot berbelok ke kiri. Robot akan berhenti ketika kedua sensor mendeteksi garis hitam secara bersamaan.
 
 ---
-## Demo
----
-> + [URL DEMO](https://youtu.be/uA3nPEIzgGU)
 
 ## Rujukan
 > Sumber referensi yang di pakai
