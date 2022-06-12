@@ -23,7 +23,7 @@ Raisyah Vidia Rahayu 2106401
 ## Solution
 > Dari permasalah tersebut solusi yang dibuat adalah menciptakan *robot line follower* yang cara kerjanya menggunakan gabungan mikrokontroller Arduino Uno yang sudah di berikan script, sensor infrared sebagai pendeteksi serta komponen lainnya yang ada pada rangkaian skematik dibawah.
 ```
-pembuatan robot line follower merupakan implemtasi secara mikro dan sederhana
+pembuatan robot line follower merupakan implementasi secara mikro dan sederhana
 ```
 
 ## Wiring Diagram
