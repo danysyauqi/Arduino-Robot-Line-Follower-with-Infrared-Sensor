@@ -19,7 +19,7 @@ pembuatan robot line follower merupakan implemtasi secara mikro dan sederhana
 ```
 
 ## Wiring Diagram
-> <img alt="Wiring Diagram" src="https://ibb.co/r6nyVgf" width="75%" height="75%">
+> <img alt="Wiring Diagram" src="https://i.postimg.cc/wv4Ck2TL/Whats-App-Image-2022-06-11-at-06-23-28.jpg" width="75%" height="75%">
 
 ## Analisis
 > <img alt="Infrared" src="https://ibb.co/n705SmY" width="75%" height="75%">
