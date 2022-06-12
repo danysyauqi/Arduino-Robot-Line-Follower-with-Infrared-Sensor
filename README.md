@@ -1,13 +1,21 @@
-# Arduino Line Follower with Infrared Sensor
-
-> UAS SENSOR DAN TRENDUSER
-    ```
-    >Zaky Khairul Fajar Arlya 2100950
-    >Dany Syauqi Nazhif 2101034
-    >Fauzan Muhammad Fahrezi 2104480
-    >Agung Satria Pamungkas 2104773
-    >Raisyah Vidia Rahayu 2106401
-    ```
+### Arduino Line Follower with Infrared Sensor
+---
+## UAS SENSOR DAN TRENDUSER
+```
+Zaky Khairul Fajar Arlya 2100950
+```
+```
+Dany Syauqi Nazhif 2101034
+```
+```
+Fauzan Muhammad Fahrezi 2104480
+```
+```
+Agung Satria Pamungkas 2104773
+```
+```
+Raisyah Vidia Rahayu 2106401
+```
 
 ## Problem
 > Sebuah alat transportasi distribusi pada umumnya membutuhkan manusia sebagai pengemudi untuk menentukan arah tujuannya. Namun apabila manusia mengemudikan kendaraan dalam rentang waktu yang lama dapat menyebabkan kondisi stamina manusia menurun. Akibatnya dapat menciptakan kecelakaan dalam berkendara. Akhirnya di ciptakan robot line follower sebagai solusi untuk kendaraan dapat bergerak tanpa membutuhkan pengemudi 
