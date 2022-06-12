@@ -2,11 +2,11 @@
 
 > UAS SENSOR DAN TRENDUSER
     ```
-    + Zaky Khairul Fajar Arlya 2100950
-    + Dany Syauqi Nazhif 2101034
-    + Fauzan Muhammad Fahrezi 2104480
-    + Agung Satria Pamungkas 2104773
-    + Raisyah Vidia Rahayu 2106401
+    Zaky Khairul Fajar Arlya 2100950
+    Dany Syauqi Nazhif 2101034
+    Fauzan Muhammad Fahrezi 2104480
+    Agung Satria Pamungkas 2104773
+    Raisyah Vidia Rahayu 2106401
     ```
 
 ## Problem
@@ -19,18 +19,26 @@ pembuatan robot line follower merupakan implemtasi secara mikro dan sederhana
 ```
 
 ## Wiring Diagram
-> <img alt="Wiring Diagram" src="https://i.postimg.cc/wv4Ck2TL/Whats-App-Image-2022-06-11-at-06-23-28.jpg" width="75%" height="75%">
+> <img alt="Wiring Diagram" src="https://i.postimg.cc/wv4Ck2TL/Whats-App-Image-2022-06-11-at-06-23-28.jpg" width="70%" height="70%">
 
 ## Analisis
-> <img alt="Infrared" src="https://i.postimg.cc/4N9DzzCH/unnamed.jpg" width="60%" height="60%">
+> <img alt="Infrared" src="https://i.postimg.cc/4N9DzzCH/unnamed.jpg" width="40%" height="40%">
+> 
+> 
+> 
 > Line Follower  adalah robot yang sangat sederhana yang ideal untuk elektronik pemula. Robot berjalan di sepanjang garis menggunakan sensor iR. Sensor memiliki dua dioda, satu dioda mengirimkan cahaya inframerah, dioda lainnya menerima cahaya yang dipantulkan dari permukaan. Ketika sinar infra merah jatuh di permukaan putih, mereka dipantulkan kembali. Ketika sinar inframerah jatuh pada permukaan hitam, cahaya diserap oleh permukaan hitam dan tidak ada sinar yang dipantulkan kembali, sehingga fotodioda tidak menerima cahaya. Sensor mengukur jumlah cahaya yang dipantulkan dan mengirimkan nilainya ke arduino. Ada potensiometer pada sensor, yang dengannya kita dapat menyesuaikan sensitivitas sensor.
-> <img alt="Arah gerak" src="https://i.postimg.cc/T1CJbNdv/lineflower-kierunek.png" width="60%" height="60%">
+>
+> 
+>  
+>    <img alt="Arah gerak" src="https://i.postimg.cc/T1CJbNdv/lineflower-kierunek.png" width="40%" height="40%">
+>
+>
 >Arduino sekarang harus membuat keputusan berdasarkan data yang diterima dari sensor, sampai sensor tidak mendeteksi garis hitam maka akan maju. Jika sensor kiri mendeteksi garis hitam, robot berbelok ke kanan, dan jika sensor kanan mendeteksi garis hitam, robot berbelok ke kiri. Robot akan berhenti ketika kedua sensor mendeteksi garis hitam secara bersamaan.
 
+---
 ## Demo
 ---
 #### [URL DEMO](youtube.com)
----
 
 ## Rujukan
 > Sumber referensi yang di pakai
