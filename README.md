@@ -2,11 +2,11 @@
 
 > UAS SENSOR DAN TRENDUSER
     ```
-    Zaky Khairul Fajar Arlya 2100950
-    Dany Syauqi Nazhif 2101034
-    Fauzan Muhammad Fahrezi 2104480
-    Agung Satria Pamungkas 2104773
-    Raisyah Vidia Rahayu 2106401
+    >Zaky Khairul Fajar Arlya 2100950
+    >Dany Syauqi Nazhif 2101034
+    >Fauzan Muhammad Fahrezi 2104480
+    >Agung Satria Pamungkas 2104773
+    >Raisyah Vidia Rahayu 2106401
     ```
 
 ## Problem
